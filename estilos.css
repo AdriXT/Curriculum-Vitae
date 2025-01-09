@@ -40,7 +40,7 @@ nav {
     color: white;
     text-align: center;
     padding: 10px 0;
-    height: 20px;
+    
     grid-column: span 2;
 }
 
@@ -179,6 +179,9 @@ footer a:active {
         grid-template-rows: auto auto 1fr auto;
     }
 
+    nav{
+        height: 60%;
+    }
     aside {
         margin-left: 0;
         text-align: center;
