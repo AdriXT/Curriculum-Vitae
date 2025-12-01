@@ -8,7 +8,3 @@ Puedes consultar y descargar mi currículum en el siguiente enlace:
 **[Currículum Vitae en PDF](CV_ASA.pdf)**
 
 Gracias por visitar mi repositorio. Si tienes alguna pregunta o comentario, no dudes en contactarme.
-
-## Agradecimientos
-
-¡Gracias por tu interés en mi perfil!
